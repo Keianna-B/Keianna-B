@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @Keianna-B
 - 👀 I’m interested in building apps and games
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning web development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me keiannabrown101@gmail.com
 - 😄 Pronouns: any/all
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: I like turtles
 
 <!---
 Keianna-B/Keianna-B is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
